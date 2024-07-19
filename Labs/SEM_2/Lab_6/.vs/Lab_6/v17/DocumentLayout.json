@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\C#\\Labs\\Lab_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|g:\\projects\\c#\\labs\\lab_6\\lab_6_task_1\\pioneerball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\pioneerball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|g:\\projects\\c#\\labs\\lab_6\\lab_6_task_1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_6\\lab_6_task_1\\beachvolleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\beachvolleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_6\\lab_6_task_1\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_6\\lab_6_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_6\\lab_6_task_1\\volleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\volleyball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_6\\lab_6_task_1\\football.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\football.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_6\\lab_6_task_1\\sportgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ACBBB5-EA92-4D0E-B1D9-F6B29ED4BC6F}|Lab_6_Task_1\\Lab_6_Task_1.csproj|solutionrelative:lab_6_task_1\\sportgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\ClassDiagram1.cd",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab_6_Task_1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-26T18:28:23.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Volleyball.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Volleyball.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\Volleyball.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Volleyball.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\Volleyball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:29:59.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeachVolleyball.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\BeachVolleyball.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\BeachVolleyball.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\BeachVolleyball.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\BeachVolleyball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:34:29.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pioneerball.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Pioneerball.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\Pioneerball.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Pioneerball.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\Pioneerball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:40:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Football.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Football.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\Football.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Football.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\Football.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:27:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SportGames.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\SportGames.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\SportGames.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\SportGames.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\SportGames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:21:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Sport.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\Sport.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Sport.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\Sport.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:19:28.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_6_Task_1\\Program.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_6\\Lab_6_Task_1\\Program.cs",
+              "RelativeToolTip": "Lab_6_Task_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:12:01.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

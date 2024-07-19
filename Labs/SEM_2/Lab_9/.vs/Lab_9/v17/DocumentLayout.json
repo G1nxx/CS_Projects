@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\C#\\Labs\\Lab_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\factories\\minskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\factories\\minskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\factories\\belarusfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\factories\\belarusfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\interfaces\\iems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\interfaces\\iems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\interfaces\\iautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\interfaces\\iautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\interfaces\\isamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\interfaces\\isamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\interfaces\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\interfaces\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_9\\lab_9_task_1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\lab_9_task_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\lab_9_task_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub ems\\belarusems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub ems\\belarusems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_9\\lab_9_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\autolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\autolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\ems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\ems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\samotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\samotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\transpherecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\transpherecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub autolight express\\belarusautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub autolight express\\belarusautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub samotrans\\worldsamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub samotrans\\worldsamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub samotrans\\minsksamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub samotrans\\minsksamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub samotrans\\belarussamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub samotrans\\belarussamotrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub autolight express\\worldautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub autolight express\\worldautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub autolight express\\minskautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub autolight express\\minskautolightexpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\types of cars\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\types of cars\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub ems\\minskems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub ems\\minskems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|g:\\projects\\c#\\labs\\lab_9\\lab_9_task_1\\transfer company\\companies\\sub ems\\worldems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE37186A-4F6A-4E6C-8051-6A28D5DDC034}|Lab_9_Task_1\\Lab_9_Task_1.csproj|solutionrelative:lab_9_task_1\\transfer company\\companies\\sub ems\\worldems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Program.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Program.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:20:03.731Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEMS.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\IEMS.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Interfaces\\IEMS.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\IEMS.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Interfaces\\IEMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:55:05.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAutoLightExpress.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\IAutoLightExpress.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Interfaces\\IAutoLightExpress.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\IAutoLightExpress.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Interfaces\\IAutoLightExpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:53:17.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab_9_Task_1",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Lab_9_Task_1.csproj",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Lab_9_Task_1.csproj",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Lab_9_Task_1.csproj",
+              "RelativeToolTip": "Lab_9_Task_1\\Lab_9_Task_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T11:54:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BelarusAutoLightExpress.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\BelarusAutoLightExpress.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\BelarusAutoLightExpress.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\BelarusAutoLightExpress.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\BelarusAutoLightExpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:41:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorldFactory.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Factories\\WorldFactory.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Factories\\WorldFactory.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Factories\\WorldFactory.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Factories\\WorldFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:38:16.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISamoTrans.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\ISamoTrans.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Interfaces\\ISamoTrans.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\ISamoTrans.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Interfaces\\ISamoTrans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:22:29.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinskFactory.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Factories\\MinskFactory.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Factories\\MinskFactory.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Factories\\MinskFactory.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Factories\\MinskFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:36:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\ClassDiagram1.cd",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab_9_Task_1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-30T08:29:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\ICar.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Interfaces\\ICar.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Interfaces\\ICar.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Interfaces\\ICar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:52:30.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BelarusFactory.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Factories\\BelarusFactory.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Factories\\BelarusFactory.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Factories\\BelarusFactory.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Factories\\BelarusFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:37:44.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EMS.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\EMS.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\EMS.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\EMS.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\EMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:32:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SamoTrans.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\SamoTrans.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\SamoTrans.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\SamoTrans.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\SamoTrans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:32:38.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorldSamoTrans.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\WorldSamoTrans.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\WorldSamoTrans.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\WorldSamoTrans.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\WorldSamoTrans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:43:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransphereCompany.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\TransphereCompany.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\TransphereCompany.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\TransphereCompany.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\TransphereCompany.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:27:32.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BelarusEMS.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\BelarusEMS.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\BelarusEMS.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\BelarusEMS.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\BelarusEMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:39:47.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoLightExpress.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\AutoLightExpress.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\AutoLightExpress.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\AutoLightExpress.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\AutoLightExpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:33:12.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MinskSamoTrans.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\MinskSamoTrans.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\MinskSamoTrans.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\MinskSamoTrans.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\MinskSamoTrans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:42:35.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BelarusSamoTrans.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\BelarusSamoTrans.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\BelarusSamoTrans.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\BelarusSamoTrans.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub SamoTrans\\BelarusSamoTrans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:42:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorldAutoLightExpress.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\WorldAutoLightExpress.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\WorldAutoLightExpress.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\WorldAutoLightExpress.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\WorldAutoLightExpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:42:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MinskAutoLightExpress.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\MinskAutoLightExpress.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\MinskAutoLightExpress.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\MinskAutoLightExpress.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub AutoLight Express\\MinskAutoLightExpress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:40:53.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Track.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Types of cars\\Track.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Types of cars\\Track.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Types of cars\\Track.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Types of cars\\Track.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:54:33.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MinskEMS.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\MinskEMS.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\MinskEMS.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\MinskEMS.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\MinskEMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:39:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorldEMS.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\WorldEMS.cs",
+              "RelativeDocumentMoniker": "Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\WorldEMS.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_9\\Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\WorldEMS.cs",
+              "RelativeToolTip": "Lab_9_Task_1\\Transfer company\\Companies\\Sub EMS\\WorldEMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:40:00.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

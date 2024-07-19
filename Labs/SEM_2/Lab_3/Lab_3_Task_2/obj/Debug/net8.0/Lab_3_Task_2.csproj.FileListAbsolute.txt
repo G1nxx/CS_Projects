@@ -1,0 +1,14 @@
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.AssemblyInfoInputs.cache
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.AssemblyInfo.cs
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\bin\Debug\net8.0\Lab_3_Task_2.exe
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\bin\Debug\net8.0\Lab_3_Task_2.deps.json
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\bin\Debug\net8.0\Lab_3_Task_2.runtimeconfig.json
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\bin\Debug\net8.0\Lab_3_Task_2.dll
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\bin\Debug\net8.0\Lab_3_Task_2.pdb
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.dll
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\refint\Lab_3_Task_2.dll
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.pdb
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\Lab_3_Task_2.genruntimeconfig.cache
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_2\obj\Debug\net8.0\ref\Lab_3_Task_2.dll

@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\C#\\Tests\\9\\9.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\hostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\placeofresidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\placeofresidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\polishhostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\polishhostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\farmstead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\farmstead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|g:\\projects\\c#\\tests\\9\\9.2\\9.2\\rectanglepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\rectanglepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\polishfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\polishfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\ipool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\ipool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|g:\\projects\\c#\\tests\\9\\9.2\\9.2\\circlepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\circlepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\tokiohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\tokiohotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\polishhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\polishhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\polishfarmstead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\polishfarmstead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\tokiohostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\tokiohostel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\tokiofarmstead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BA421-2D59-4180-8BA2-D5F00B937F62}|9.2\\9.2.csproj|solutionrelative:9.2\\tokiofarmstead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolishHostel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishHostel.cs",
+              "RelativeDocumentMoniker": "9.2\\PolishHostel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishHostel.cs",
+              "RelativeToolTip": "9.2\\PolishHostel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:48:46.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceOfResidence.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PlaceOfResidence.cs",
+              "RelativeDocumentMoniker": "9.2\\PlaceOfResidence.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PlaceOfResidence.cs",
+              "RelativeToolTip": "9.2\\PlaceOfResidence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:24:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Hotel.cs",
+              "RelativeDocumentMoniker": "9.2\\Hotel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Hotel.cs",
+              "RelativeToolTip": "9.2\\Hotel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:00:50.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hostel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Hostel.cs",
+              "RelativeDocumentMoniker": "9.2\\Hostel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Hostel.cs",
+              "RelativeToolTip": "9.2\\Hostel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:51:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Program.cs",
+              "RelativeDocumentMoniker": "9.2\\Program.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Program.cs",
+              "RelativeToolTip": "9.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T21:40:57.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RectanglePool.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\RectanglePool.cs",
+              "RelativeDocumentMoniker": "9.2\\RectanglePool.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\RectanglePool.cs",
+              "RelativeToolTip": "9.2\\RectanglePool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:30:15.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPool.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\IPool.cs",
+              "RelativeDocumentMoniker": "9.2\\IPool.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\IPool.cs",
+              "RelativeToolTip": "9.2\\IPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:17:25.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CirclePool.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\CirclePool.cs",
+              "RelativeDocumentMoniker": "9.2\\CirclePool.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\CirclePool.cs",
+              "RelativeToolTip": "9.2\\CirclePool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:50:58.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "9.2\\ClassDiagram1.cd",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\ClassDiagram1.cd",
+              "RelativeToolTip": "9.2\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-17T22:57:25.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokioHotel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\TokioHotel.cs",
+              "RelativeDocumentMoniker": "9.2\\TokioHotel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\TokioHotel.cs",
+              "RelativeToolTip": "9.2\\TokioHotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:48:17.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PolishFarmstead.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishFarmstead.cs",
+              "RelativeDocumentMoniker": "9.2\\PolishFarmstead.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishFarmstead.cs",
+              "RelativeToolTip": "9.2\\PolishFarmstead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:07:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Farmstead.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Farmstead.cs",
+              "RelativeDocumentMoniker": "9.2\\Farmstead.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\Farmstead.cs",
+              "RelativeToolTip": "9.2\\Farmstead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:49:07.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "9.2\\AbstractFactory.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\AbstractFactory.cs",
+              "RelativeToolTip": "9.2\\AbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:21:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolishFactory.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishFactory.cs",
+              "RelativeDocumentMoniker": "9.2\\PolishFactory.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishFactory.cs",
+              "RelativeToolTip": "9.2\\PolishFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:48:59.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PolishHotel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishHotel.cs",
+              "RelativeDocumentMoniker": "9.2\\PolishHotel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\PolishHotel.cs",
+              "RelativeToolTip": "9.2\\PolishHotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:48:44.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokioHostel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\TokioHostel.cs",
+              "RelativeDocumentMoniker": "9.2\\TokioHostel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\TokioHostel.cs",
+              "RelativeToolTip": "9.2\\TokioHostel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:49:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokioFarmstead.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\TokioFarmstead.cs",
+              "RelativeDocumentMoniker": "9.2\\TokioFarmstead.cs",
+              "ToolTip": "G:\\Projects\\C#\\Tests\\9\\9.2\\9.2\\TokioFarmstead.cs",
+              "RelativeToolTip": "9.2\\TokioFarmstead.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:07:28.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

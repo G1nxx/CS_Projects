@@ -1,0 +1,14 @@
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\bin\Debug\net8.0\Test_Indexes_&_Diaposones.exe
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\bin\Debug\net8.0\Test_Indexes_&_Diaposones.deps.json
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\bin\Debug\net8.0\Test_Indexes_&_Diaposones.runtimeconfig.json
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\bin\Debug\net8.0\Test_Indexes_&_Diaposones.dll
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\bin\Debug\net8.0\Test_Indexes_&_Diaposones.pdb
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.AssemblyInfoInputs.cache
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.AssemblyInfo.cs
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.dll
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\refint\Test_Indexes_&_Diaposones.dll
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.pdb
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\Test_Indexes_&_Diaposones.genruntimeconfig.cache
+G:\Projects\C#\Tests\Test_Indexes_&_Diaposones\Test_Indexes_&_Diaposones\obj\Debug\net8.0\ref\Test_Indexes_&_Diaposones.dll

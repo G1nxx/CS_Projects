@@ -1,0 +1,14 @@
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\bin\Debug\net8.0\Lab_3_Task_3.exe
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\bin\Debug\net8.0\Lab_3_Task_3.deps.json
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\bin\Debug\net8.0\Lab_3_Task_3.runtimeconfig.json
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\bin\Debug\net8.0\Lab_3_Task_3.dll
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\bin\Debug\net8.0\Lab_3_Task_3.pdb
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.AssemblyInfoInputs.cache
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.AssemblyInfo.cs
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.dll
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\refint\Lab_3_Task_3.dll
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.pdb
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\Lab_3_Task_3.genruntimeconfig.cache
+G:\Projects\C#\Labs\Lab_3\Lab_3_Task_3\obj\Debug\net8.0\ref\Lab_3_Task_3.dll

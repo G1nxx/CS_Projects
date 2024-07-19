@@ -1,0 +1,14 @@
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\bin\Debug\net8.0\Test_NULL.exe
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\bin\Debug\net8.0\Test_NULL.deps.json
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\bin\Debug\net8.0\Test_NULL.runtimeconfig.json
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\bin\Debug\net8.0\Test_NULL.dll
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\bin\Debug\net8.0\Test_NULL.pdb
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.AssemblyInfoInputs.cache
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.AssemblyInfo.cs
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.dll
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\refint\Test_NULL.dll
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.pdb
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\Test_NULL.genruntimeconfig.cache
+G:\Projects\C#\Tests\Test_NULL\Test_NULL\obj\Debug\net8.0\ref\Test_NULL.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpTT3JY9jBmg/MQTFw7p3pOw1sUQJjkrzwWVN5PSf0zIswV9hz4s8YPm4XRLvvXQTHipPro/L3M5zYBPJOI/CA==",
+  "success": true,
+  "projectFilePath": "G:\\C#\\лабораторные\\9\\LAb9\\LAb9\\LAb9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Степан\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

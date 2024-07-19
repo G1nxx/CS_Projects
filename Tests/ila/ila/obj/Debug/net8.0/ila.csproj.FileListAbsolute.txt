@@ -1,0 +1,14 @@
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.AssemblyInfoInputs.cache
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.AssemblyInfo.cs
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Tests\ila\ila\bin\Debug\net8.0\ila.exe
+G:\Projects\C#\Tests\ila\ila\bin\Debug\net8.0\ila.deps.json
+G:\Projects\C#\Tests\ila\ila\bin\Debug\net8.0\ila.runtimeconfig.json
+G:\Projects\C#\Tests\ila\ila\bin\Debug\net8.0\ila.dll
+G:\Projects\C#\Tests\ila\ila\bin\Debug\net8.0\ila.pdb
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.dll
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\refint\ila.dll
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.pdb
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ila.genruntimeconfig.cache
+G:\Projects\C#\Tests\ila\ila\obj\Debug\net8.0\ref\ila.dll

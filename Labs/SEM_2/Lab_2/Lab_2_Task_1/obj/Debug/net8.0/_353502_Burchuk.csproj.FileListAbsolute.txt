@@ -1,0 +1,14 @@
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\bin\Debug\net8.0\_353502_Burchuk.exe
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\bin\Debug\net8.0\_353502_Burchuk.deps.json
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\bin\Debug\net8.0\_353502_Burchuk.runtimeconfig.json
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\bin\Debug\net8.0\_353502_Burchuk.dll
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\bin\Debug\net8.0\_353502_Burchuk.pdb
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.AssemblyInfoInputs.cache
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.AssemblyInfo.cs
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.csproj.CoreCompileInputs.cache
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.dll
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\refint\_353502_Burchuk.dll
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.pdb
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\_353502_Burchuk.genruntimeconfig.cache
+G:\Projects\C#\Labs\Lab_2_Task_1\_353502_Burchuk\obj\Debug\net8.0\ref\_353502_Burchuk.dll

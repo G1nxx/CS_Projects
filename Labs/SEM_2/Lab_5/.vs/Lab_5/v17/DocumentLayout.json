@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\C#\\Labs\\Lab_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|g:\\projects\\c#\\labs\\lab_5\\lab_5_task_1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|solutionrelative:lab_5_task_1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|g:\\projects\\c#\\labs\\lab_5\\lab_5_task_1\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|solutionrelative:lab_5_task_1\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_5\\lab_5_task_1\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|solutionrelative:lab_5_task_1\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_5\\lab_5_task_1\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|solutionrelative:lab_5_task_1\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|G:\\Projects\\C#\\Labs\\Lab_5\\lab_5_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DF5ED5-5612-4118-BDB5-37B4B1E41F43}|Lab_5_Task_1\\Lab_5_Task_1.csproj|solutionrelative:lab_5_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab_5_Task_1\\ClassDiagram1.cd",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab_5_Task_1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-26T18:35:03.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_5_Task_1\\Program.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Program.cs",
+              "RelativeToolTip": "Lab_5_Task_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:45:19.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Hotel.cs",
+              "RelativeDocumentMoniker": "Lab_5_Task_1\\Hotel.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Hotel.cs",
+              "RelativeToolTip": "Lab_5_Task_1\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:26:46.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Room.cs",
+              "RelativeDocumentMoniker": "Lab_5_Task_1\\Room.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Room.cs",
+              "RelativeToolTip": "Lab_5_Task_1\\Room.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wCMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:46:14.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Tariff.cs",
+              "RelativeDocumentMoniker": "Lab_5_Task_1\\Tariff.cs",
+              "ToolTip": "G:\\Projects\\C#\\Labs\\Lab_5\\Lab_5_Task_1\\Tariff.cs",
+              "RelativeToolTip": "Lab_5_Task_1\\Tariff.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:54:46.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects\\C#\\SEM_3\\Lab_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|G:\\Projects\\C#\\SEM_3\\Lab_2\\lab_2_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|solutionrelative:lab_2_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|g:\\projects\\c#\\sem_3\\lab_2\\lab_2_task_1\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|solutionrelative:lab_2_task_1\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|g:\\projects\\c#\\sem_3\\lab_2\\lab_2_task_1\\entities\\myhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|solutionrelative:lab_2_task_1\\entities\\myhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|g:\\projects\\c#\\sem_3\\lab_2\\lab_2_task_1\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3012330-7B5F-421B-A998-00BA3B1A6AA1}|Lab_2_Task_1\\Lab_2_Task_1.csproj|solutionrelative:lab_2_task_1\\entities\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyHotel.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Entities\\MyHotel.cs",
+              "RelativeDocumentMoniker": "Lab_2_Task_1\\Entities\\MyHotel.cs",
+              "ToolTip": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Entities\\MyHotel.cs",
+              "RelativeToolTip": "Lab_2_Task_1\\Entities\\MyHotel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:38:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Entities\\Journal.cs",
+              "RelativeDocumentMoniker": "Lab_2_Task_1\\Entities\\Journal.cs",
+              "ToolTip": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Entities\\Journal.cs",
+              "RelativeToolTip": "Lab_2_Task_1\\Entities\\Journal.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAIAzwDcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:52:52.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomCollection.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Collections\\MyCustomCollection.cs",
+              "RelativeDocumentMoniker": "Lab_2_Task_1\\Collections\\MyCustomCollection.cs",
+              "ToolTip": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Collections\\MyCustomCollection.cs",
+              "RelativeToolTip": "Lab_2_Task_1\\Collections\\MyCustomCollection.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAtwLIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:59:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_2_Task_1\\Program.cs",
+              "ToolTip": "G:\\Projects\\C#\\SEM_3\\Lab_2\\Lab_2_Task_1\\Program.cs",
+              "RelativeToolTip": "Lab_2_Task_1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:55:45.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
